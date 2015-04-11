@@ -1,0 +1,13 @@
+{
+    "name": "jiang925/wordpress-heroku",
+    "authors": [
+        {
+            "name": "Tian Jiang",
+            "email": "jiang925@hotmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+      }
+}
