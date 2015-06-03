@@ -8,7 +8,7 @@ Features:
 * Fixed "Can't select database" issue when running locally
 
 Original list of packed plugins:
-* [PostgreSQL for WordPress](http://wordpress.org/extend/plugins/postgresql-for-wordpress/)
+* <strike>[PostgreSQL for WordPress](http://wordpress.org/extend/plugins/postgresql-for-wordpress/)</strike> (Removed due to incompatibility with Wordpress 4.2.2)
 * [Amazon S3 and Cloudfront](https://wordpress.org/plugins/amazon-s3-and-cloudfront/)
 * [WP Sendgrid](https://wordpress.org/plugins/wp-sendgrid/)
 * [Wordpress HTTPS](https://wordpress.org/plugins/wordpress-https/)
