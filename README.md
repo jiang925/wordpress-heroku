@@ -2,6 +2,8 @@
 
 Forked from: [mhoofman/wordpress-heroku](https://github.com/mhoofman/wordpress-heroku)
 
+Instructions for setting up Wordpress on Heroku fully in the browser, i.e., no command line required: [here](http://blog.jiang925.com/2015/04/10/host-wordpress-on-heroku-fully-in-browser/)
+
 Features:
 * More plugins
 * Fixed Permalinks not working issue
